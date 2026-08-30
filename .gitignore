@@ -150,9 +150,9 @@ activemq-data/
 # Environments
 .env
 .envrc
-.venv
+.venv/
+venv/
 env/
-artemisArchitecture/bin/
 ENV/
 env.bak/
 venv.bak/
@@ -216,5 +216,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-artemisArchitecture/lib64
-artemisArchitecture/pyvenv.cfg
